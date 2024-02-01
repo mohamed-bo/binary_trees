@@ -3,7 +3,7 @@
 /**
  * binary_tree_is_root - is a node a root
  * @node: adress of node
- * 
+ *
  * Return: 1 si node root
  */
 

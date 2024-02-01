@@ -4,7 +4,7 @@
 /**
  * binary_tree_is_leaf - Checks if node is leaf
  * @node: adress of node
- * 
+ *
  * Return: 1 si node leaf
  */
 
